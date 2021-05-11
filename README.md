@@ -1,4 +1,4 @@
-# Kanamin
+# kanamin
  
 ## Twitter
 
