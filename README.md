@@ -1,4 +1,4 @@
-# KanamiTanigawa
+# Kanamin
  
 ## Twitter
 
